@@ -1,2 +1,2 @@
 # GUI-python
-[button url="http://www.google.com"]
+{% include button.html url="http://www.google.com" %}
