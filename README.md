@@ -1,2 +1,3 @@
 # GUI-python
-{% include button.html url="http://www.google.com" %}
+
+[Click me](http://www.google.com){: .btn}
